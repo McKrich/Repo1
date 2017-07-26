@@ -3,7 +3,6 @@ h1 {
 }
 img { width: 100%; }
 header {
-  vertical-align: middle;
   height: 100px;
   background-color: #2E2321;
   color: #fff;
@@ -19,11 +18,13 @@ font-family: "papyrus", cursive;
 
 footer {
   text-align: center;
+  line-height: 13px;
   background-color: #2E2321;
   color: #fff;
   font-family: "courier", cursive;
   font-weight: bold;
   font-size: 15px;
+  height: 110px;
 }
 .wrapper {
   width: 650px;
