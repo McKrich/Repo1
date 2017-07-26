@@ -1,0 +1,35 @@
+h1 {
+  margin: 0;
+}
+img { width: 100%; }
+header {
+  vertical-align: middle;
+  height: 100px;
+  background-color: #2E2321;
+  color: #fff;
+  text-align: center;
+  line-height: 90px;
+  font-size: 30px;
+}
+
+main {
+font-size: 20px;
+font-family: "papyrus", cursive;
+}
+
+footer {
+  text-align: center;
+  background-color: #2E2321;
+  color: #fff;
+  font-family: "courier", cursive;
+  font-weight: bold;
+  font-size: 15px;
+}
+.wrapper {
+  width: 650px;
+  margin: auto;
+}
+ul.coffee {
+
+  list-style-image: url('http://www.rw-designer.com/icon-image/10574-16x16x32.png');
+}
